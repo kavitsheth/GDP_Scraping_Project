@@ -19,7 +19,7 @@ This project scrapes GDP data from the Wikipedia page on the list of countries b
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/gdp-scraper.git
+git clone https://github.com/kavitsheth/GDP_Scraping_Project.git
 
 markdown
 Copy
